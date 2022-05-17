@@ -1,0 +1,12 @@
+.App {
+    width: 250px;
+    border: 1px, solid;
+    border-color: black;
+    border-radius: 2px;
+    margin-left: 40%;
+
+
+    & h2 {
+        color: rgb(35, 194, 48);
+    }
+}
